@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-mattlevine-brightsy-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-mattlevine-brightsy-mcp)
+
 # Brightsy MCP Server
 
 This is a Model Context Protocol (MCP) server that connects to an Brightsy AI agent.
